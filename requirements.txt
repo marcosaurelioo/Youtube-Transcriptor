@@ -1,0 +1,2 @@
+git+https://github.com/openai/whisper.git@main#whisper
+pytube===12.1.2
